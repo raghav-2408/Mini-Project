@@ -17,3 +17,12 @@
 - Convolutional Neural Networks (CNN): CNN looks at different parts of a sentence at once to find important patterns. It helps the system recognize key features in the text.
 
 - Recurrent Neural Networks (RNN): RNN helps the system understand the context of words in a sentence. It looks at how words relate to each other to make accurate predictions about the meaning of the text.
+
+# What is Sentiment Analysis ?
+
+- Sentiment analysis is a method that involves analyzing text to determine the emotions or opinions expressed within it. It helps in understanding the sentiment behind the words used in a piece of writing, such as whether the text conveys positivity, negativity, or neutrality. This analysis can be applied to various forms of text, including social media posts like tweets, to automatically detect the underlying sentiment. By utilizing advanced models like the stacked ensemble approach, sentiment analysis can be automated and enhanced for accurate interpretation of language nuances. These models, such as the GCR-NN, combine different techniques to improve the detection of sentiments, particularly in identifying racist content in social media posts. Through the use of deep learning and machine learning algorithms, sentiment analysis plays a crucial role in analyzing and interpreting the sentiments expressed in text data.
+
+- Sentiment analysis is like teaching a computer to understand feelings in text. It helps the computer figure out if a piece of writing is positive, negative, or neutral. By analyzing the words and phrases used, sentiment analysis can tell if someone is happy, sad, angry, or just sharing information without any strong emotion. It's like giving the computer the ability to understand the mood or tone of what people are saying in their writing.
+
+
+
