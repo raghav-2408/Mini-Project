@@ -22,6 +22,10 @@
 # What are the algorithms which are used in this ?
 
 ### The document mentions the following algorithms used in the proposed system for detecting racism on social media through sentiment analysis with a stacked ensemble model:
+- Random Forest
+- Logistic Regression
+- Support Vector Machine
+-  Proposed Gated Convolutional Recurrent Neural Networks
 
 - Gated Recurrent Units (GRU): GRU helps the system understand the order of words in a sentence. It remembers important words that came before to make sense of the whole sentence.
 
