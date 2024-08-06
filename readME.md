@@ -43,3 +43,17 @@ By combining these components in a stacked ensemble fashion, the GCR-NN model ca
 
 
 - In simpler terms, the Stacked Ensemble GCR-NN model is like a smart system that combines different ways of understanding text to figure out if there are any racist comments in social media posts. It's kind of like having multiple experts working together to catch any negative or discriminatory language in tweets automatically. By using this advanced model, the system can quickly analyze the feelings behind the words used in posts and accurately detect any racist content.
+
+# How this project is different from existing project ?
+
+- This project differs from existing systems for detecting racism on social media in several key ways:
+
+- Advanced Sentiment Analysis: The proposed system utilizes advanced sentiment analysis techniques, including the stacked ensemble GCR-NN model, which combines GRU, CNN, and RNN components. This advanced approach allows for a more nuanced understanding of language patterns related to racism compared to traditional sentiment analysis methods.
+
+- Enhanced Accuracy and Performance: The proposed system aims to achieve higher accuracy, precision, recall, and F1 score in detecting racist content. By leveraging deep learning models and ensemble techniques, it outperforms traditional machine learning models commonly used in existing systems.
+
+- Scalability and Adaptability: The system is designed to efficiently handle large volumes of social media content and adapt to new and evolving forms of racist expressions. This scalability and adaptability address limitations in existing systems that struggle with context understanding and static keyword-based detection.
+
+- Robust Performance: The proposed system demonstrates robust performance in detecting and classifying racist content, surpassing the performance of traditional and standalone deep learning models. It effectively addresses the challenges faced by existing systems in terms of context understanding, scalability, and performance issues.
+
+In summary, the project stands out by offering a more sophisticated and effective approach to detecting racism on social media through advanced sentiment analysis with the stacked ensemble GCR-NN model, leading to improved accuracy, context understanding, scalability, adaptability, and overall performance compared to existing systems.
