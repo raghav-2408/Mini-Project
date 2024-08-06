@@ -12,7 +12,8 @@
 
 ### The document mentions the following algorithms used in the proposed system for detecting racism on social media through sentiment analysis with a stacked ensemble model:
 
-- Gated Recurrent Units (GRU): Used for capturing sequential text dependencies.
-- Convolutional Neural Networks (CNN): Employed for extracting spatial text features.
-- Recurrent Neural Networks (RNN): Utilized for analyzing contextual information.
-- These algorithms are combined in the stacked ensemble GCR-NN model to enhance context understanding and accuracy in detecting racist content in social media posts.
+- Gated Recurrent Units (GRU): GRU helps the system understand the order of words in a sentence. It remembers important words that came before to make sense of the whole sentence.
+
+- Convolutional Neural Networks (CNN): CNN looks at different parts of a sentence at once to find important patterns. It helps the system recognize key features in the text.
+
+- Recurrent Neural Networks (RNN): RNN helps the system understand the context of words in a sentence. It looks at how words relate to each other to make accurate predictions about the meaning of the text.
