@@ -70,3 +70,28 @@ By combining these components in a stacked ensemble fashion, the GCR-NN model ca
 In summary, the project stands out by offering a more sophisticated and effective approach to detecting racism on social media through advanced sentiment analysis with the stacked ensemble GCR-NN model, leading to improved accuracy, context understanding, scalability, adaptability, and overall performance compared to existing systems.
 
 - This new project is different from the old one because it uses a smarter way to find racist comments in social media posts. It combines different methods to understand the feelings behind the words used in tweets. By doing this, it can automatically detect if someone is being negative or discriminatory in their posts. This new system is more accurate and can handle a lot of posts quickly. It's like having a team of experts working together to catch any harmful language in social media posts.
+
+
+# What are the limitations of this project and How to overcome those ?
+
+## Limitations of the project may include:
+
+- Context Understanding: The system may struggle with capturing subtle contextual nuances in language, leading to potential false positives or negatives in detecting racist content.
+
+- Scalability: Handling large volumes of social media content effectively could be challenging, impacting the system's performance and efficiency.
+
+- Adaptability: Predefined keywords and features may not adapt well to new or evolving forms of racism, limiting the system's ability to detect emerging patterns.
+
+- Performance: Traditional models may underperform compared to advanced deep learning approaches, affecting the system's overall effectiveness in detecting racist content.
+
+To overcome these limitations, the project can implement the following strategies:
+
+- Context Understanding: Enhance the system's ability to grasp complex language patterns by incorporating more sophisticated natural language processing techniques and training the model on diverse datasets to improve context understanding.
+
+- Scalability: Implement scalable architecture and efficient data processing methods to handle large volumes of social media content, potentially leveraging cloud computing resources for faster processing.
+
+- Adaptability: Introduce mechanisms for continuous learning and model updating to adapt to new and evolving forms of racist expressions. This could involve regular retraining of the model with updated data.
+
+- Performance: Focus on optimizing the deep learning models used in the system, fine-tuning hyperparameters, and exploring ensemble techniques to enhance performance metrics such as accuracy, precision, recall, and F1 score.
+
+By addressing these limitations through improved technology, data handling, and model optimization, the project can enhance its effectiveness in detecting and combating racist content on social media platforms
