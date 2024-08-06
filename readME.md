@@ -40,3 +40,6 @@
   - CNN (Convolutional Neural Networks): CNN is adept at extracting spatial features from data, which in this context helps identify important patterns in text.
   - RNN (Recurrent Neural Networks): RNN is effective at analyzing contextual information by considering the relationship between words in a sentence.
 By combining these components in a stacked ensemble fashion, the GCR-NN model can better understand the sentiment and context of text, leading to improved detection of racist content in social media posts. The model's strength lies in its ability to leverage the unique capabilities of each component to achieve high accuracy and nuanced analysis of language patterns related to racism.
+
+
+- In simpler terms, the Stacked Ensemble GCR-NN model is like a smart system that combines different ways of understanding text to figure out if there are any racist comments in social media posts. It's kind of like having multiple experts working together to catch any negative or discriminatory language in tweets automatically. By using this advanced model, the system can quickly analyze the feelings behind the words used in posts and accurately detect any racist content.
