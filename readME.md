@@ -32,7 +32,7 @@
 
 - The Stacked Ensemble GCR-NN model is a sophisticated approach that combines different deep learning components to enhance the accuracy and effectiveness of sentiment analysis, particularly in detecting racist content in social media posts. Here's a breakdown of what each part of the model represents:
 
-1. Stacked Ensemble: This refers to a technique where multiple machine learning models are combined to improve overall performance. In this case, various deep learning components are stacked together to create a more powerful and accurate model.
+- 1. Stacked Ensemble: This refers to a technique where multiple machine learning models are combined to improve overall performance. In this case, various deep learning components are stacked together to create a more powerful and accurate model.
 
 - 2. GCR-NN:
 
