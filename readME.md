@@ -84,7 +84,7 @@ In summary, the project stands out by offering a more sophisticated and effectiv
 
 - Performance: Traditional models may underperform compared to advanced deep learning approaches, affecting the system's overall effectiveness in detecting racist content.
 
-To overcome these limitations, the project can implement the following strategies:
+## To overcome these limitations, the project can implement the following strategies:
 
 - Context Understanding: Enhance the system's ability to grasp complex language patterns by incorporating more sophisticated natural language processing techniques and training the model on diverse datasets to improve context understanding.
 
