@@ -24,5 +24,19 @@
 
 - Sentiment analysis is like teaching a computer to understand feelings in text. It helps the computer figure out if a piece of writing is positive, negative, or neutral. By analyzing the words and phrases used, sentiment analysis can tell if someone is happy, sad, angry, or just sharing information without any strong emotion. It's like giving the computer the ability to understand the mood or tone of what people are saying in their writing.
 
+# What is Racism ?
 
+` Racism is a belief or behavior that treats people unfairly or discriminates against them based on their race or ethnicity. It involves prejudice, stereotypes, or negative attitudes towards individuals or groups because of their racial background. Racism can manifest in various forms, such as verbal insults, discriminatory actions, unequal treatment, or systemic biases that disadvantage certain racial or ethnic groups. It is a harmful and unjust practice that undermines equality and can have serious social, economic, and psychological impacts on individuals and communities.
 
+# What is Stacked Ensemble GCR-NN model ?
+
+- The Stacked Ensemble GCR-NN model is a sophisticated approach that combines different deep learning components to enhance the accuracy and effectiveness of sentiment analysis, particularly in detecting racist content in social media posts. Here's a breakdown of what each part of the model represents:
+
+Stacked Ensemble: This refers to a technique where multiple machine learning models are combined to improve overall performance. In this case, various deep learning components are stacked together to create a more powerful and accurate model.
+
+GCR-NN:
+
+GRU (Gated Recurrent Units): GRU is a type of neural network that helps capture sequential dependencies in data, making it useful for understanding the order of words in a sentence.
+CNN (Convolutional Neural Networks): CNN is adept at extracting spatial features from data, which in this context helps identify important patterns in text.
+RNN (Recurrent Neural Networks): RNN is effective at analyzing contextual information by considering the relationship between words in a sentence.
+By combining these components in a stacked ensemble fashion, the GCR-NN model can better understand the sentiment and context of text, leading to improved detection of racist content in social media posts. The model's strength lies in its ability to leverage the unique capabilities of each component to achieve high accuracy and nuanced analysis of language patterns related to racism.
