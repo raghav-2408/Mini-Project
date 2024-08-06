@@ -5,6 +5,6 @@
 
 ## Simple words :
 
-```
-The document talks about using a smart system to find racist comments in social media posts automatically. It uses a special combined model to understand the feelings in these posts. This model is very good at spotting racist content in tweets. It works better than older methods and can adapt to new types of racism. The study shows that this model is accurate and can handle a lot of posts quickly. In the future, they want to make it even better by using advanced technology to understand different languages and respond faster to posts.
-```
+
+#### The document talks about using a smart system to find racist comments in social media posts automatically. It uses a special combined model to understand the feelings in these posts. This model is very good at spotting racist content in tweets. It works better than older methods and can adapt to new types of racism. The study shows that this model is accurate and can handle a lot of posts quickly. In the future, they want to make it even better by using advanced technology to understand different languages and respond faster to posts.
+
