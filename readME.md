@@ -32,11 +32,11 @@
 
 - The Stacked Ensemble GCR-NN model is a sophisticated approach that combines different deep learning components to enhance the accuracy and effectiveness of sentiment analysis, particularly in detecting racist content in social media posts. Here's a breakdown of what each part of the model represents:
 
-Stacked Ensemble: This refers to a technique where multiple machine learning models are combined to improve overall performance. In this case, various deep learning components are stacked together to create a more powerful and accurate model.
+1. Stacked Ensemble: This refers to a technique where multiple machine learning models are combined to improve overall performance. In this case, various deep learning components are stacked together to create a more powerful and accurate model.
 
-GCR-NN:
+2. GCR-NN:
 
-GRU (Gated Recurrent Units): GRU is a type of neural network that helps capture sequential dependencies in data, making it useful for understanding the order of words in a sentence.
-CNN (Convolutional Neural Networks): CNN is adept at extracting spatial features from data, which in this context helps identify important patterns in text.
-RNN (Recurrent Neural Networks): RNN is effective at analyzing contextual information by considering the relationship between words in a sentence.
+-- GRU (Gated Recurrent Units): GRU is a type of neural network that helps capture sequential dependencies in data, making it useful for understanding the order of words in a sentence.
+-- CNN (Convolutional Neural Networks): CNN is adept at extracting spatial features from data, which in this context helps identify important patterns in text.
+-- RNN (Recurrent Neural Networks): RNN is effective at analyzing contextual information by considering the relationship between words in a sentence.
 By combining these components in a stacked ensemble fashion, the GCR-NN model can better understand the sentiment and context of text, leading to improved detection of racist content in social media posts. The model's strength lies in its ability to leverage the unique capabilities of each component to achieve high accuracy and nuanced analysis of language patterns related to racism.
