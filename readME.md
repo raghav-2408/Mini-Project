@@ -99,3 +99,38 @@ In summary, the project stands out by offering a more sophisticated and effectiv
 - Performance: Focus on optimizing the deep learning models used in the system, fine-tuning hyperparameters, and exploring ensemble techniques to enhance performance metrics such as accuracy, precision, recall, and F1 score.
 
 By addressing these limitations through improved technology, data handling, and model optimization, the project can enhance its effectiveness in detecting and combating racist content on social media platforms
+
+
+## Random Forest:
+
+- Definition: A Random Forest is a collection of many decision trees that work together to make a prediction.
+How It Works: Each tree in the forest gives a prediction, and the most common prediction (for classification) or average prediction (for regression) is chosen as the final result.
+- Purpose: It helps improve accuracy and reduce the risk of making wrong predictions by combining the results of multiple trees.
+- Example: If you want to predict if a customer will buy a product, each tree makes a guess, and the Random Forest combines these guesses to make a final prediction.
+
+## Logistic Regression:
+
+- Definition: Logistic Regression is a method used to predict binary outcomes (yes/no, true/false).
+How It Works: It uses a mathematical formula to estimate the probability that a given input belongs to a certain category.
+- Purpose: It’s used when the goal is to classify data into one of two categories.
+- Example: Predicting whether an email is spam or not spam. Logistic Regression will give a probability score between 0 and 1, which can be used to classify the email.
+
+## Support Vector Machine (SVM):
+
+- Definition: SVM is a method used for classification and regression that finds the best boundary (hyperplane) to separate different classes.
+How It Works: It tries to find the line or boundary that best separates the data into different classes with the largest margin between the classes.
+- Purpose: It’s effective for high-dimensional data and clear margins of separation.
+- Example: Classifying whether a tumor is malignant or benign based on features like size and texture. SVM finds the best line to separate the two categories.
+
+#### Summary:
+
+- Random Forest: Uses multiple decision trees to improve predictions.
+- Logistic Regression: Estimates the probability of a binary outcome.
+- Support Vector Machine: Finds the best boundary to separate data into different classes.
+
+
+
+
+
+
+
